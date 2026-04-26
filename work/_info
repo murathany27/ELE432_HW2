@@ -1,0 +1,181 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+Z2 !s12c _opt
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dD:/ders/term8-final/ELE432/ELE432_PreWork2/questa_projects
+T_opt
+!i145 1
+!i144 0
+!s110 1777191672
+V<=S8HQiRm9Kz^`6RTbg`g2
+Z4 04 9 4 work testbench fast 0
+=1-847b57f32e88-69edcaf7-131-2048
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM10U5 
+Z8 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z9 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z10 OL;O;2025.2;82
+R3
+T_opt1
+!i145 1
+!i144 0
+!s110 1777191710
+VlZJ=SX__YX7SL?oNCl@=52
+R4
+=1-847b57f32e88-69edcb1d-282-57d8
+R1
+R5
+R6
+R7
+R8
+o-quiet -auto_acc_if_foreign -work work +acc
+R9
+n@_opt1
+R10
+valudec
+2D:/ders/term8-final/ELE432/HW2/aludec.sv
+Z11 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z12 !s110 1777191612
+!i10b 1
+!s100 _WiANLIzHWMl7IOeeK7?f3
+IWNiD>b4CVCdO1J3nFj2T[1
+S1
+Z13 dD:/ders/term8-final/ELE432/HW2
+w1777136898
+8D:/ders/term8-final/ELE432/HW2/aludec.sv
+FD:/ders/term8-final/ELE432/HW2/aludec.sv
+!i122 22
+L0 1 23
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z16 !s108 1777191612.000000
+!s107 D:/ders/term8-final/ELE432/HW2/aludec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/HW2/aludec.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z18 tCvgOpt 0 defaultOptions 1085333592
+vcontroller
+2D:/ders/term8-final/ELE432/HW2/controller.sv
+R11
+R12
+!i10b 1
+!s100 bk6=;Lcf[Uoac?mJ[kV3J2
+Ikm`V>8h_6]C3V0UXkci^C2
+S1
+R13
+w1777135795
+8D:/ders/term8-final/ELE432/HW2/controller.sv
+FD:/ders/term8-final/ELE432/HW2/controller.sv
+!i122 23
+L0 1 42
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 D:/ders/term8-final/ELE432/HW2/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/HW2/controller.sv|
+!i113 0
+R17
+R18
+vinstrdec
+2D:/ders/term8-final/ELE432/HW2/instrdec.sv
+R11
+Z19 !s110 1777191613
+!i10b 1
+!s100 e>jIV688UW@;H>O4MgD793
+IAYFKO:U;3Dooz>EhIz5=O1
+S1
+R13
+w1777136897
+8D:/ders/term8-final/ELE432/HW2/instrdec.sv
+FD:/ders/term8-final/ELE432/HW2/instrdec.sv
+!i122 25
+L0 1 14
+R14
+R15
+r1
+!s85 0
+31
+Z20 !s108 1777191613.000000
+!s107 D:/ders/term8-final/ELE432/HW2/instrdec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/HW2/instrdec.sv|
+!i113 0
+R17
+R18
+vmainfsm
+2D:/ders/term8-final/ELE432/HW2/mainfsm.sv
+R11
+R19
+!i10b 1
+!s100 [Th`OmNb_fcWZo?35Fm:T0
+IbHdZOJ_jAdjd[0Q[b43Z?0
+S1
+R13
+w1777191310
+8D:/ders/term8-final/ELE432/HW2/mainfsm.sv
+FD:/ders/term8-final/ELE432/HW2/mainfsm.sv
+!i122 26
+L0 1 80
+R14
+R15
+r1
+!s85 0
+31
+R20
+!s107 D:/ders/term8-final/ELE432/HW2/mainfsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/HW2/mainfsm.sv|
+!i113 0
+R17
+R18
+vtestbench
+2D:/ders/term8-final/ELE432/HW2/controller_testbench.sv
+R11
+R19
+!i10b 1
+!s100 8<V;FofKTfbVa_KFoU?fP3
+IGR[4OCJk:[faJgSgjn?QR3
+S1
+R13
+w1777134627
+8D:/ders/term8-final/ELE432/HW2/controller_testbench.sv
+FD:/ders/term8-final/ELE432/HW2/controller_testbench.sv
+!i122 24
+L0 6 80
+R14
+R15
+r1
+!s85 0
+31
+R20
+!s107 D:/ders/term8-final/ELE432/HW2/controller_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/HW2/controller_testbench.sv|
+!i113 0
+R17
+R18

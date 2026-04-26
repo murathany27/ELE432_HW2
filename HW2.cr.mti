@@ -1,0 +1,41 @@
+D:/ders/term8-final/ELE432/HW2/mainfsm.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/HW2/mainfsm.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/HW2/HW2.mpf' is used as the ini file.
+-- Compiling module mainfsm
+
+Top level modules:
+	mainfsm
+
+} {} {}} D:/ders/term8-final/ELE432/HW2/controller_testbench.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/HW2/controller_testbench.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/HW2/HW2.mpf' is used as the ini file.
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/ders/term8-final/ELE432/HW2/controller.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/HW2/controller.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/HW2/HW2.mpf' is used as the ini file.
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/ders/term8-final/ELE432/HW2/instrdec.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/HW2/instrdec.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/HW2/HW2.mpf' is used as the ini file.
+-- Compiling module instrdec
+
+Top level modules:
+	instrdec
+
+} {} {}} D:/ders/term8-final/ELE432/HW2/aludec.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/HW2/aludec.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/HW2/HW2.mpf' is used as the ini file.
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}}
